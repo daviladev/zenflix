@@ -1,0 +1,342 @@
+{
+  "categorias": [
+    {
+      "titulo": "Meditação para abundância",
+      "link": "https://www.youtube.com/watch?v=O_Z08RAjIos",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Deepak Chopra",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Aula de Yoga 01 - Thais Coscia",
+          "url": "https://www.youtube.com/watch?v=hPyEKBxKI4g"
+        },
+        {
+          "titulo": "Dia 01 - A realidade da abundância",
+          "url": "https://www.youtube.com/watch?v=g5Z0YiUNTnI"
+        },
+        {
+          "titulo": "Dia 02 - A fonte de toda abundância",
+          "url": "https://www.youtube.com/watch?v=4ZhjaNoiFgA"
+        },
+        {
+          "titulo": "Dia 03 - Mente, matéria e espírito",
+          "url": "https://www.youtube.com/watch?v=x1NdSPXQDLI"
+        },
+        {
+          "titulo": "Dia 04 - Consciência pura",
+          "url": "https://www.youtube.com/watch?v=p7CbBAKhJxQ"
+        },
+        {
+          "titulo": "Dia 05 - O campo de todas as possibilidades",
+          "url": "https://www.youtube.com/watch?v=rN7to90QWWw"
+        },
+        {
+          "titulo": "Dia 06 - As sementes do sucesso",
+          "url": "https://www.youtube.com/watch?v=meOZe30SlA0"
+        },
+        {
+          "titulo": "Dia 07 - A realização espontânea de um desejo",
+          "url": "https://www.youtube.com/watch?v=yTnGbOCLZ2U"
+        },
+        {
+          "titulo": "Dia 08 - A lei da potencialidade pura",
+          "url": "https://www.youtube.com/watch?v=yNNsSJpKt6g"
+        },   
+        {
+          "titulo": "Dia 09 - A lei da doação",
+          "url": "https://www.youtube.com/watch?v=loI8IEZO198"
+        },    
+        {
+          "titulo": "Dia 10 - A lei do karma",
+          "url": "https://www.youtube.com/watch?v=k7R47O2ZDSI"
+        },    
+        {
+          "titulo": "Dia 11 - A lei do menor esforço",
+          "url": "https://www.youtube.com/watch?v=e3ivgIkPcmU"
+        },    
+        {
+          "titulo": "Dia 12 - A lei da intenção e do desejo",
+          "url": "https://www.youtube.com/watch?v=ebscKbUlX4k"
+        },  
+        {
+          "titulo": "Dia 13 - A lei do desapego",
+          "url": "https://www.youtube.com/watch?v=ZKbi891ChkQ"
+        },    
+        {
+          "titulo": "Dia 14 - A lei do dharma",
+          "url": "https://www.youtube.com/watch?v=qa2SaI8O6Eo"
+        },    
+        {
+          "titulo": "Dia 15 - Viver o sincrodestino",
+          "url": "https://www.youtube.com/watch?v=Nbc2UYsHvtk"
+        },    
+        {
+          "titulo": "Dia 16 - Viver agradecidamente",
+          "url": "https://www.youtube.com/watch?v=c1ewewiyCPo"
+        },  
+        {
+          "titulo": "Dia 17 - Viver sem preocupações",
+          "url": "https://www.youtube.com/watch?v=l3bwMBOrYc8"
+        }, 
+        {
+          "titulo": "Dia 18 - Viver em unidade",
+          "url": "https://www.youtube.com/watch?v=rryEslKVCpA"
+        }, 
+        {
+          "titulo": "Dia 19 - Viver o amor",
+          "url": "https://www.youtube.com/watch?v=etOA4x9G8dU"
+        }, 
+        {
+          "titulo": "Dia 20 - Viver luxuosamente",
+          "url": "https://www.youtube.com/watch?v=WlMiv9AzOLs"
+        }, 
+        {
+          "titulo": "Dia 21 - Viver abundantemente",
+          "url": "https://www.youtube.com/watch?v=YoyWFB4SvVM"
+        },
+        {
+          "titulo": "Ho'oponopono - Oração Original",
+          "url": "https://www.youtube.com/watch?v=hPyEKBxKI4g"
+        }     
+         
+      ]
+    },
+
+    {
+      "titulo": "Yoga",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Documentários",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Hermógenes - Deus me Livre de Ser Normal",
+          "url": "https://www.youtube.com/watch?v=qpjUJ0y66U4"
+        },
+        {
+          "titulo": "Why We Breathe. A Yoga Documentary.",
+          "url": "https://www.youtube.com/watch?v=PvqvrD9h2nU"
+        },
+        {
+          "titulo": "My Dharma - Full Documentary",
+          "url": "https://www.youtube.com/watch?v=4OjqkDghPGg"
+        },
+        {
+          "titulo": "FINDING JOE | Full Movie (HD) | Deepak Chopra, Robin Sharma, Rashida Jones, Sir Ken Robinson",
+          "url": "https://www.youtube.com/watch?v=s8nFACrLxr0"
+        }, 
+        {
+          "titulo": "Respiração para Aliviar Ansiedade e Stress | Pranayama Bhramari | 5Min- Pri Leite",
+          "url": "https://www.youtube.com/watch?v=TTRJvowBr-I"
+        }
+      ]
+    },
+    {
+      "titulo": "Filosofia de vida",
+      "cor": "#f783ec",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Palestra Aprenda a Viver o Agora | Monja Coen",
+          "url": "https://www.youtube.com/watch?v=lEbmZ-X8C9U"
+        },
+        {
+          "titulo": "Seja bom e correto, mesmo que ninguém estiver olhando | LEANDRO KARNAL",
+          "url": "https://www.youtube.com/watch?v=c54PpajwAvI"
+        },
+        {
+          "titulo": "Gandhi",
+          "url": "https://www.youtube.com/watch?v=5_f9uhxwRLI"
+        },
+        {
+          "titulo": "COMO DESAPEGAR? - TADASHI KADOMOTO",
+          "url": "https://www.youtube.com/watch?v=EVL1yH_L_q8"
+        },
+        {
+          "titulo": "Glândula Pineal: Um Prazer Muito Maior do Que o Sexo | Sadhguru Português",
+          "url": "https://www.youtube.com/watch?v=5iUQx2GR4Xg"
+        },
+        {
+          "titulo": "Leandro Karnal • Zygmunt Bauman: Mundo Líquido",
+          "url": "https://www.youtube.com/watch?v=zKPvRuuLf1U"
+        },
+        {
+          "titulo": "Duas histórias de amor pra rir e chorar • Leandro Karnal e Ariano Suassuna",
+          "url": "https://www.youtube.com/watch?v=SUQTg-l9otU"
+        }
+
+      ]
+    },
+    {
+      "titulo": "Vegetarianismo",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "A carne é Fraca",
+          "url": "https://www.youtube.com/watch?v=rrFsGTw5bCw"
+        },
+        {
+          "titulo": "Instituto Nina Rosa - A Engrenagem",
+          "url": "https://www.youtube.com/watch?v=KmIprNpcd94"
+        },
+        {
+          "titulo": "A melhor palestra que você irá ouvir na sua vida - Gary Yourofsky",
+          "url": "https://www.youtube.com/watch?v=8bH-doHSY_o"
+        },
+        {
+          "titulo": "Meat The Truth - Uma verdade mais que inconveniente - legendado",
+          "url": "https://www.youtube.com/watch?v=u7LBPHtOBnk"
+        },
+        {
+          "titulo": "101 razões para tornar-se vegano - James Wildman",
+          "url": "https://www.youtube.com/watch?v=qpRIfqPXSz0"
+        },
+        {
+          "titulo": "Da Fazenda Ao Frigorífico",
+          "url": "https://www.youtube.com/watch?v=CSIq0MAAXmg"
+        },
+        {
+          "titulo": "Quantos animais matei hoje? | Rafael Bán Jacobsen | TEDxPassoFundo",
+          "url": "https://www.youtube.com/watch?v=IkoCzh1_Idg"
+        },
+        {
+          "titulo": "Que sabes de la leche? . . Got the Facts on Milk Subtitulos buena calidad",
+          "url": "https://www.youtube.com/watch?v=ctpfTTbHNmg"
+        },
+        {
+          "titulo": "Conheça Sua Carne (Meet Your Meat - Portuguese Subtitles)",
+          "url": "https://www.youtube.com/watch?v=QgM8QhlEtP0"
+        },
+        {
+          "titulo": "Paul McCartney - 'Paredes de vidro' (Legendado)",
+          "url": "https://www.youtube.com/watch?v=9KndhCqrIdc"
+        },
+        {
+          "titulo": "Não Matarás - os animais e os homens nos bastidores da ciência",
+          "url": "https://www.youtube.com/watch?v=Uxxj9GRbyBE"
+        },
+        {
+          "titulo": "TERRÁQUEOS - Documentário Legendado",
+          "url": "https://www.youtube.com/watch?v=TpkqiYonbd4"
+        },
+        {
+          "titulo": "What The Health (2017) Dublado em português / Filme completo",
+          "url": "https://www.youtube.com/watch?v=NoYINMgImGs"
+        },
+        {
+          "titulo": "Documentário Completo -DOMÍNIO (DUBLADO) Império do Sofrimento -Carne - Ovos -Leite -Derivados e Mais",
+          "url": "https://www.youtube.com/watch?v=ql9p8oIJLUY"
+        },
+        {
+          "titulo": "Cowspirancy (Dublado) - O melhor documentário que irá assistir",
+          "url": "https://www.youtube.com/watch?v=5ATRlfHSgHM"
+        }
+      ]
+    },
+    {
+      "titulo": "Prática de yoga guiada",
+      "cor": "#909ff5",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Aula de Yoga 01 - Thais Coscia",
+          "url": "https://www.youtube.com/watch?v=hPyEKBxKI4g"
+        },
+        {
+          "titulo": "Aula de Yoga 02 - Thais Coscia",
+          "url": "https://www.youtube.com/watch?v=qxBAfwfnezY"
+        },
+        {
+          "titulo": "Aula de Yoga para Crianças 01 - Thais Coscia",
+          "url": "https://www.youtube.com/watch?v=bIG5HuLjdb8"
+        },
+        {
+          "titulo": "Aula de Yoga para Crianças 02 - Thais Coscia",
+          "url": "https://www.youtube.com/watch?v=aDCXvZ1GuCY"
+        },
+        {
+          "titulo": "Meditação Guiada 01 - Thais Coscia",
+          "url": "https://www.youtube.com/watch?v=h7azMHPwWd8"
+        },
+        {
+          "titulo": "Meditação Guiada 02 - Thais Coscia",
+          "url": "https://www.youtube.com/watch?v=ovsxPbAN99E"
+        },
+
+        {
+          "titulo": "Fernanda Lima: Ashtanga Vinyasa Yoga (Série 1)",
+          "url": "https://www.youtube.com/watch?v=xrtVgUYari4&t=1430s"
+        },
+        {
+          "titulo": "Primary Series Ashtanga with Sri K. Pattabhi Jois",
+          "url": "https://www.youtube.com/watch?v=aUgtMaAZzW0&t=3367s"
+        },
+        {
+          "titulo": "Aula de Yoga - Ashtanga vinyasa yoga intermediário | Heloísa Benichio",
+          "url": "https://www.youtube.com/watch?v=ypj_8R0CoHw"
+        },
+        
+        {
+          "titulo": "Aula de yoga para iniciantes - hatha yoga | Carolina Borghetti",
+          "url": "https://www.youtube.com/watch?v=IrG61963_j0"
+        },
+        {
+          "titulo": "Pranayama (Exercício Respiratório) Respiração Ujjayi",
+          "url": "https://www.youtube.com/watch?v=kIWqmyMnac8"
+        }
+
+        
+      ]
+    },
+    {
+      "titulo": "Receitas vegetarianas",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "RECEITAS VEGETARIANAS RÁPIDA E FÁCIL (Ovo-Lacto) | Amanda Oliveira",
+          "url": "https://www.youtube.com/watch?v=mTroOuEhFIA"
+        },
+        {
+          "titulo": "O MELHOR HAMBÚRGUER VEGETARIANO | Receitas Vegetarianas | Rafael Ribas",
+          "url": "https://www.youtube.com/watch?v=5ATRlfHSgHM"
+        },
+        {
+          "titulo": "ESTROGONOFE VEGETARIANO BARATINHO - RECEITAS QUE AMO",
+          "url": "https://www.youtube.com/watch?v=JzHCQDxO4mo"
+        },
+        {
+          "titulo": "4 IDEIAS DE LANCHE OU CAFÉ DA MANHÃ VEGANOS RÁPIDOS",
+          "url": "https://www.youtube.com/watch?v=h1yrJsryXzE"
+        },
+        {
+          "titulo": "COMO FAZER LENTILHA | Receitas Essenciais | MARINA MORAIS",
+          "url": "https://www.youtube.com/watch?v=yD3rnROqPFg"
+        },
+        {
+          "titulo": "O MELHOR HOMUS DA VIDA | Receitas de Israel",
+          "url": "https://www.youtube.com/watch?v=q0X64Dw4mKo"
+        },
+        {
+          "titulo": "MELHOR HAMBURGUER VEGANO?! RECEITA DELICIOSA E BARATA",
+          "url": "https://www.youtube.com/watch?v=Cg-NSo1abLw"
+        }
+      ]
+    }
+    
+    
+  ]
+}
